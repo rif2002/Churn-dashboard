@@ -56,8 +56,8 @@ The dashboard includes:
 - Service-related churn (backup, internet service type, tech support)  
 - Monthly churn trends  
 
-![Churn Analysis Dashboard](churn_dashboard.png)
-![Churn Analysis Dashboard](customer_risk.png)
+![Churn Analysis Dashboard](churn%20dashboard.png)
+![Churn Analysis Dashboard](customer%20risk.png)
 
 
  
